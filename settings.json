@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Matiwarbot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Justplayinglol.aternos.me",
     "port": 47851,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
